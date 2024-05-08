@@ -1,0 +1,2 @@
+var mensagemBoasVindas = "Boas vindas ao nosso site!";
+alert(mensagemBoasVindas);

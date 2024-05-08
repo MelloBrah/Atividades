@@ -1,0 +1,2 @@
+var idade = prompt("Por favor, digite sua idade:");
+alert("Sua idade é: " + idade);
